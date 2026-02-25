@@ -1,7 +1,7 @@
 # MyTV 
 **The World's First Voice Operated Agentic TV Platform**
 
-MyTV is a cutting edge, voice first television system powered by open source Linux, large language models, and orchestrator action agents. Designed for secure and intelligent control over media, communication, and productivity.
+MyTV is a cutting edge, voice first television system powered by open source Linux and AI agents. Designed for secure and intelligent control over media, communication, and productivity.
 
 <img width="1536" height="1024" alt="MyTV3" src="https://github.com/user-attachments/assets/f581b328-6460-4de4-bac6-81a3e982b47d" />
 <img width="1536" height="1024" alt="MyTV" src="https://github.com/user-attachments/assets/528d71ee-1d85-44f1-9471-999271d4f79d" />
