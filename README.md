@@ -45,8 +45,7 @@ MyTV is a cutting edge, voice first television system powered by open source Lin
 ## Apps Overview
 
 ### 📺 TV
-- Core app for watching live television via tuner or IPTV streams.  
-- Supports **EPG (Electronic Program Guide)**, channel organization, and favorites.  
+- Core app for watching live television via tuner or IPTV streams.   
 - Optimized for large-screen navigation with voice or remote control.  
 
 
