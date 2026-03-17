@@ -86,7 +86,7 @@ All system functions are accessible by voice through our agentic system:
 [ You: ] "Open Retro Games"  
 [ Agent: ] "Launching RetroPie Emulator..."  
 [ You: ] "Switch to video conference"  
-[ Agent: ] "Starting Jitsi Meet session with camera and mic..."  
+[ Agent: ] "Starting Meet session with camera and mic..."  
 [ You: ] "Stream screen to living room TV"  
 [ Agent: ] "Broadcasting via VNC to connected Sharp 4K display"
 ```
