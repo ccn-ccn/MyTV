@@ -51,7 +51,6 @@ MyTV is a cutting edge, voice first television system powered by open source Lin
 
 ### 🎵 Media
 - Local and network-based media playback (music, videos, photos).  
-- DLNA, SMB, and USB device support.  
 - Unified media library with intelligent voice search.  
 
 
@@ -62,7 +61,7 @@ MyTV is a cutting edge, voice first television system powered by open source Lin
 
 
 ### 🎥 Conference
-- Video conferencing solution (powered by WebRTC).  
+- Video conferencing solution.  
 - Integrates with camera and microphone hardware.  
 - Voice-controlled meeting join/start.  
 
