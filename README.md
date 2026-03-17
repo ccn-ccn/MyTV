@@ -51,32 +51,32 @@ MyTV is a cutting edge, voice first television system powered by open source Lin
 
 ### 🎵 Media
 - Local and network-based media playback (music, videos, photos).  
-- **DLNA, SMB, and USB device** support.  
+- DLNA, SMB, and USB device support.  
 - Unified media library with intelligent voice search.  
 
 
 ### 👾 Retro Games
-- Emulator hub powered by **RetroPie**.  
+- Emulator hub powered by RetroPie.  
 - Preloaded with classics and supports adding custom ROMs.  
-- Multiplayer support via **Wi-Fi Direct** and **mesh gaming**.  
+- Multiplayer support via Wi-Fi and mesh gaming.  
 
 
 ### 🎥 Conference
-- Video conferencing solution (powered by **WebRTC**).  
+- Video conferencing solution (powered by WebRTC).  
 - Integrates with camera and microphone hardware.  
 - Voice-controlled meeting join/start.  
 
 
 ### 🌐 Browser
-- Secure, **privacy-focused** web browser.  
+- Secure, privacy-focused web browser.  
 - Designed to make streaming services feel like native TV apps.  
 - Full-screen optimized for remote and voice input.  
 
 
 ### ⚙️ Settings
-- Control over **Wi-Fi, display, sound, user accounts, and system updates**.  
+- Control over Wi-Fi, display, sound, user accounts, and system updates.  
 - Voice-enabled for accessibility.  
-- Includes **profile controls** and **privacy options**.  
+- Includes profile controls and privacy options.  
 
 
 ## Voice Workflow Orchestration
