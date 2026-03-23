@@ -129,7 +129,7 @@ MyTV is fully functional with no account. The MyCloud subscription unlocks inter
 | MyCloud App Store                         | —                    | ✅                        |
 | OTA updates via MyCloud CDN               | Public repository    | MyCloud CDN               |
 
-See [mycloud.com](https://mycloud.com) for current pricing.
+See [mycloud.com](https://github.com/ccnfac/MyCloud) for current pricing.
 
 ---
 
