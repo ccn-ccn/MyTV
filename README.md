@@ -92,8 +92,6 @@ Two clean, non-overlapping gaming modes — no setup complexity, no third-party 
 ### 🎥 Conference
 End-to-end encrypted video calling built on the Matrix protocol. 1:1 calls use Olm encryption. Group calls use Element Call with Megolm encryption. The server relays signalling only — call media is never visible to any intermediary. CalDAV calendar integration enables automatic meeting join by voice.
 
-> **⚠️ Emergency Calling** — MyTV does not support E911 / 112 / 999. For emergencies, use a cellular phone or any PSTN-connected device.
-
 ### 🌐 Browser
 Chromium in a TV-optimised shell with VP9 forced for YouTube 4K hardware decode. uBlock Origin and Privacy Badger pre-installed. DNS-over-HTTPS. Switches automatically to a standard desktop layout in Workstation mode. Designed for voice and remote navigation at comfortable viewing distance.
 
